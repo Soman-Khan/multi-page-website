@@ -64,6 +64,13 @@ body{
 	color: #fff;
 	text-align: center;
 }
+
+@media(min-width: 280px) {
+	.gallery-img-at-small{
+		margin-bottom: 10px;
+	}
+}
+
 #main-footer{
 	background: #000;
 	color: #fff;
